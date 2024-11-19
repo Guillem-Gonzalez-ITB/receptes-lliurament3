@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="llistareceptes.xsl" type="text/xsl"?>
 <recetas>
-    <receta>
+    <receta id="01">
         <nombre>Pasta con salsa de coliflor y pimienta de Jamaica</nombre>
         <descripcion>Una salsa vegana para la pasta, tan sabrosa y cremosa que resultará irresistible! Está elaborada con coliflor y con otros ingredientes vegetales, que la convierten en una solución sencilla y para toda la familia.</descripcion>
         <informacion>
