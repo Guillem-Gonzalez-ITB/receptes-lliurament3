@@ -2,7 +2,7 @@ from lxml import etree
 
 # Load the XML and XSLT files
 xml_file = "llistareceptes.xml"
-xslt_file = "llistareceptes.xsl"
+xslt_file = "receta.xsl"
 
 # Parse the XML and XSLT files
 xml = etree.parse(xml_file)
@@ -23,11 +23,11 @@ for recipe in recipes:
     # Check if the transformation produced output
     if output is not None:
         # Generate the output HTML filename based on the recipe ID
-        filename = f"recipe_{recipe.get('id')}.html"
+        filename = f"receta{recipe.get('id')}.html"
        
         # Write the output to the respective file
         with open(filename, 'wb') as f:
-            f.write(etree.tostring(output, pretty_print=True))
+            f.write(etree.tostring(output, pretty_print=True, encoding='utf-8'))
        
         print(f"Generated: {filename}")
     else:

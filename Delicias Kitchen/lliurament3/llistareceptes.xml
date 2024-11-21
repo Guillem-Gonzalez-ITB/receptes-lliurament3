@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="llistareceptes.xsl" type="text/xsl"?>
+<?xml-stylesheet href="receta.xsl" type="text/xsl"?>
 <recetas>
     <receta id="01">
         <nombre>Pasta con salsa de coliflor y pimienta de Jamaica</nombre>
         <descripcion>Una salsa vegana para la pasta, tan sabrosa y cremosa que resultará irresistible! Está elaborada con coliflor y con otros ingredientes vegetales, que la convierten en una solución sencilla y para toda la familia.</descripcion>
+        <imagen>Pasta</imagen>
         <informacion>
-            <tiempo-de-preparacion>10 minutos</tiempo-de-preparacion>
-            <tiempo-de-coccion>20 minutos</tiempo-de-coccion>
-            <tiempo-total>30 minutos</tiempo-total>
-            <dificultad>Fácil</dificultad>
-            <raciones>4 personas</raciones>
+            <tiempo-de-preparacion>Tiempo de preparación: 10 minutos</tiempo-de-preparacion>
+            <tiempo-de-coccion>Tiempo de cocción: 20 minutos</tiempo-de-coccion>
+            <tiempo-total>Tiempo total: 30 minutos</tiempo-total>
+            <dificultad>Dificultad: Fácil</dificultad>
+            <raciones>Raciones: 4 personas</raciones>
         </informacion>
         <ingredientes>
             <ingrediente>400 g de pasta (espaguetis, macarrones o al gusto)</ingrediente>
@@ -33,15 +34,16 @@
             <paso>Sirve inmediatamente y decora con perejil fresco picado.</paso>
         </pasos>
     </receta>
-    <receta>
+    <receta id="02">
         <nombre>Galletas de Avena, Rosa y Lima</nombre>
         <descripcion>Estas galletas de avena con un toque floral de rosa y cítrico de lima son perfectas para acompañar el té o café.</descripcion>    
+        <imagen>galletas</imagen>
         <informacion>
-            <tiempo-preparacion>15 minutos</tiempo-preparacion>
-            <tiempo-coccion>12 minutos</tiempo-coccion>
-            <tiempo-total>27 minutos</tiempo-total>
-            <dificultad>Fácil</dificultad>
-            <raciones>20 galletas</raciones>
+            <tiempo-preparacion>Tiempo de preparación: 15 minutos</tiempo-preparacion>
+            <tiempo-coccion>Tiempo de cocción: 12 minutos</tiempo-coccion>
+            <tiempo-total>Tiempo total: 27 minutos</tiempo-total>
+            <dificultad>Dificultad: Fácil</dificultad>
+            <raciones>Raciones: 20 galletas</raciones>
         </informacion>
         <ingredientes>
             <ingrediente>1 taza de copos de avena</ingrediente>
@@ -57,7 +59,7 @@
         </ingredientes>
         <pasos>
             <paso>Precalienta el horno a 180°C y forra una bandeja con papel de hornear.</paso>
-            <paso>En un bol grande, mezcla los ingredientes secos: copos de avena, harina de almendra, azúcar de coco, polvo de hornear y sal.</paso>
+            <paso>Pon un bol grande, mezcla los ingredientes secos: copos de avena, harina de almendra, azúcar de coco, polvo de hornear y sal.</paso>
             <paso>En otro recipiente, bate el huevo (o mezcla de chía), el aceite de coco derretido, el agua de rosas y la ralladura de lima hasta que estén bien integrados.</paso>
             <paso>Incorpora la mezcla líquida a los ingredientes secos y remueve hasta obtener una masa homogénea.</paso>
             <paso>Forma pequeñas bolas de masa y colócalas en la bandeja de horno. Aplana cada bola ligeramente con la palma de la mano.</paso>
@@ -66,15 +68,16 @@
             <paso>Saca las galletas del horno y déjalas enfriar en una rejilla. ¡Listas para disfrutar!</paso>
         </pasos>
     </receta>
-    <receta>
+    <receta id="03">
         <nombre>Mijo Cremoso con Lentejas, Hortalizas y Shiitake</nombre>
         <descripcion>Este mijo cremoso con lentejas y un surtido de hortalizas y setas shiitake es un plato nutritivo, saciante y lleno de sabor.</descripcion>    
+        <imagen>mijo</imagen>
         <informacion>
-            <tiempo-preparacion>15 minutos</tiempo-preparacion>
-            <tiempo-coccion>30 minutos</tiempo-coccion>
-            <tiempo-total>45 minutos</tiempo-total>
-            <dificultad>Media</dificultad>
-            <raciones>4 personas</raciones>
+            <tiempo-preparacion>Tiempo de preparación: 15 minutos</tiempo-preparacion>
+            <tiempo-coccion>Tiempo de cocción: 30 minutos</tiempo-coccion>
+            <tiempo-total>Tiempo total: 45 minutos</tiempo-total>
+            <dificultad>Dificultad: Media</dificultad>
+            <raciones>Raciones: 4 personas</raciones>
         </informacion>
         <ingredientes>
             <ingrediente>1 taza de mijo</ingrediente>
