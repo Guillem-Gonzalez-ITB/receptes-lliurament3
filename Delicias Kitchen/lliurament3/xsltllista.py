@@ -18,7 +18,7 @@ print(f"Found {len(recipes)} recipes in the XML.")
 # Apply the transformation for each recipe
 for recipe in recipes:
     print(f"Processing recipes")
-   
+    
     # Perform the transformation on the individual recipe
     output = transform(recipe)
    

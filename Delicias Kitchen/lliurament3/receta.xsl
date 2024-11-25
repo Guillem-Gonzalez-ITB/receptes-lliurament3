@@ -76,11 +76,11 @@
                         <!-- Footer con enlaces a redes sociales -->
                             <footer>
                                 <ul>
-                                    <li><a href="#">FACEBOOK</a></li>
-                                    <li><a href="#">TWITTER</a></li>
-                                    <li><a href="#">INSTAGRAM</a></li>
-                                    <li><a href="#">PINTEREST</a></li>
-                                    <li><a href="#">EMAIL</a></li>
+                                    <li><a href="https://www.facebook.com">FACEBOOK</a></li>
+                                    <li><a href="https://www.twitter.com">TWITTER</a></li>
+                                    <li><a href="https://www.instagram.com">INSTAGRAM</a></li>
+                                    <li><a href="https://www.pinterest.com">PINTEREST</a></li>
+                                    <li><a href="https://www.gmail.com">EMAIL</a></li>
                                     <li><a href="#">RSS</a></li>
                                 </ul>
                             </footer>

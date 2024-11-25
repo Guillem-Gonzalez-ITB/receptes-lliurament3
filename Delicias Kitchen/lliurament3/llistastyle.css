@@ -48,6 +48,7 @@ main {
 .llistareceptes ul li details div button a {
     text-decoration: none;
     color: white;
+    border-radius: 10px;
 }
 
 .llistareceptes {
@@ -55,7 +56,7 @@ main {
     flex-wrap: wrap;
     justify-content: center;
     margin-top: 175px;
-    width: 90%;
+    width: 100%;
     margin-right: 5%;
 }
 
@@ -65,15 +66,17 @@ main {
 .llistareceptes ul li details div img {
     width: 40%;
     margin-left: 30%;
+    border-radius: 15px;
 }
 
 details {
     background-color: #f0f0f0;
-    border: 1px solid #ddd;
-    border-radius: 0px;
+    border: 0px solid #ddd;
+    border-radius: 10px;
     padding: 15px;
     overflow: hidden;
     display: block;
+    margin-top: 1%;
 }
 
 summary {
@@ -99,11 +102,9 @@ button {
     font-size: 16px;
     margin-left: 30%;
     margin-top: 15px;
+    border-radius: 15px;
 }
 
-.llistareceptes img {
-    width: 100%;
-}
 
 .llistareceptes ul li details div .caracteristicas {
     margin-top: 10px;
@@ -116,7 +117,7 @@ footer {
     color: white;
     text-align: center;
     padding: 20px;
-
+    width: 100%;
 }
 
 footer ul {
@@ -133,8 +134,32 @@ footer ul li {
 footer ul li a {
     color: white;
     text-decoration: none;
+    transition: text-decoration 0.3s ease;
 }
 
 footer ul li a:hover {
     text-decoration: underline;
+}
+
+.page {
+    background-color: #ddd;
+    color: black;
+    padding: 15px;
+    border: none;
+    width: 30%;
+    font-size: 16px;
+    margin-left: 35%;
+    margin-top: 15px;
+    border-radius: 15px;
+}
+.page a {
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+    transition: color 0.3s ease;
+    padding: 2%;
+}
+
+.page a:hover {
+    color: #7ABA96;
 }

@@ -67,16 +67,19 @@
                                             </li>
                                         </xsl:for-each>
                                     </ul>
+                                    <button class="page">
+                                        <a href="./llistareceptes.html">2 </a><a href="./llistareceptes.html">3 </a><a href="./llistareceptes.html">4 </a><a href="./llistareceptes.html">5 </a><a href="./llistareceptes.html">6 </a><a href="./llistareceptes.html">7 </a><a href="./llistareceptes.html">8 </a><a href="./llistareceptes.html">9 </a><a href="./llistareceptes.html">10</a>
+                                    </button>
                                 </section>
                             </main>
 
                             <footer>
                                 <ul>
-                                    <li><a href="#">FACEBOOK</a></li>
-                                    <li><a href="#">TWITTER</a></li>
-                                    <li><a href="#">INSTAGRAM</a></li>
-                                    <li><a href="#">PINTEREST</a></li>
-                                    <li><a href="#">EMAIL</a></li>
+                                    <li><a href="https://www.facebook.com">FACEBOOK</a></li>
+                                    <li><a href="https://www.twitter.com">TWITTER</a></li>
+                                    <li><a href="https://www.instagram.com">INSTAGRAM</a></li>
+                                    <li><a href="https://www.pinterest.com">PINTEREST</a></li>
+                                    <li><a href="https://www.gmail.com">EMAIL</a></li>
                                     <li><a href="#">RSS</a></li>
                                 </ul>
                             </footer>
