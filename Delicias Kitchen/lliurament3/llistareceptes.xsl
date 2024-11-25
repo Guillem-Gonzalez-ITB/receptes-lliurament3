@@ -7,7 +7,7 @@
                             <meta charset="UTF-8"/>
                             <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
                             <title>Delicias Kitchen</title>
-                            <link rel="stylesheet" href="../liststyle.css"/>
+                            <link rel="stylesheet" href="./llistastyle.css"/>
                         </head>
                         <body>
                             <!-- Encabezado con logo y menú -->
@@ -18,7 +18,7 @@
                                     <ul>
                                         <li><a href="../lliurament1/Main_page.html">INICIO</a></li>
                                         <li><a href="../lliurament2/WiP.html">SOBRE MÍ</a></li>
-                                        <li><a href="../lliurament2/llistareceptes.html">RECETAS</a></li>
+                                        <li><a href="../lliurament3/llistareceptes.html">RECETAS</a></li>
                                         <li><a href="../lliurament2/WiP.html">CONTACTO</a></li>
                                         <li><a href="../lliurament2/WiP.html">OTRAS COSAS</a></li>
                                     </ul>
@@ -59,7 +59,7 @@
                                                                 <xsl:text>receta</xsl:text>
                                                                     <xsl:value-of select="id"/>
                                                                 <xsl:text>.html</xsl:text>
-                                                                </xsl:attribute>
+                                                                </xsl:attribute>Ver receta
                                                             </a>
                                                         </button>
                                                     </div>

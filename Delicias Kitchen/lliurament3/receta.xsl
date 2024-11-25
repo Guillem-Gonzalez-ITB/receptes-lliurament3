@@ -13,15 +13,15 @@
                             <header>
                                 <img src="../imatges/Logo-Delicias.png" alt="Delicias Kitchen - Vegetarian ;&amp; Healthy"/>
                                 <nav>
-                                    <hr>
+                                    <hr/>
                                     <ul>
                                         <li><a href="../lliurament1/Main_page.html">INICIO</a></li>
                                         <li><a href="../lliurament2/WiP.html">SOBRE MÍ</a></li>
-                                        <li><a href="../lliurament2/llistareceptes.html">RECETAS</a></li>
+                                        <li><a href="../lliurament3/llistareceptes.html">RECETAS</a></li>
                                         <li><a href="../lliurament2/WiP.html">CONTACTO</a></li>
                                         <li><a href="../lliurament2/WiP.html">OTRAS COSAS</a></li>
                                     </ul>
-                                    </hr>
+                                    <hr/>
                                 </nav>
                             </header>
                             <main>

@@ -5,6 +5,7 @@
         <nombre>Pasta con salsa de coliflor y pimienta de Jamaica</nombre>
         <descripcion>Una salsa vegana para la pasta, tan sabrosa y cremosa que resultará irresistible! Está elaborada con coliflor y con otros ingredientes vegetales, que la convierten en una solución sencilla y para toda la familia.</descripcion>
         <imagen>Pasta</imagen>
+        <id>01</id>
         <informacion>
             <tiempo-de-preparacion>Tiempo de preparación: 10 minutos</tiempo-de-preparacion>
             <tiempo-de-coccion>Tiempo de cocción: 20 minutos</tiempo-de-coccion>
@@ -38,6 +39,7 @@
         <nombre>Galletas de Avena, Rosa y Lima</nombre>
         <descripcion>Estas galletas de avena con un toque floral de rosa y cítrico de lima son perfectas para acompañar el té o café.</descripcion>    
         <imagen>galletas</imagen>
+        <id>02</id>
         <informacion>
             <tiempo-preparacion>Tiempo de preparación: 15 minutos</tiempo-preparacion>
             <tiempo-coccion>Tiempo de cocción: 12 minutos</tiempo-coccion>
@@ -72,6 +74,7 @@
         <nombre>Mijo Cremoso con Lentejas, Hortalizas y Shiitake</nombre>
         <descripcion>Este mijo cremoso con lentejas y un surtido de hortalizas y setas shiitake es un plato nutritivo, saciante y lleno de sabor.</descripcion>    
         <imagen>mijo</imagen>
+        <id>03</id>
         <informacion>
             <tiempo-preparacion>Tiempo de preparación: 15 minutos</tiempo-preparacion>
             <tiempo-coccion>Tiempo de cocción: 30 minutos</tiempo-coccion>
@@ -105,6 +108,183 @@
             <paso>Incorpora la leche de coco y mezcla bien. Agrega las lentejas cocidas y las setas reservadas. Cocina unos minutos más para que todo esté bien caliente.</paso>
             <paso>Condimenta con sal y pimienta al gusto.</paso>
             <paso>Sirve el mijo cremoso decorado con perejil fresco picado.</paso>
+        </pasos>
+    </receta>
+    <receta id="04">
+        <nombre>Pasta con salsa de coliflor y pimienta de Jamaica</nombre>
+        <descripcion>Una salsa vegana para la pasta, tan sabrosa y cremosa que resultará irresistible! Está elaborada con coliflor y con otros ingredientes vegetales, que la convierten en una solución sencilla y para toda la familia.</descripcion>
+        <imagen>Pasta</imagen>
+        <id>04</id>
+        <informacion>
+            <tiempo-de-preparacion>Tiempo de preparación: 10 minutos</tiempo-de-preparacion>
+            <tiempo-de-coccion>Tiempo de cocción: 20 minutos</tiempo-de-coccion>
+            <tiempo-total>Tiempo total: 30 minutos</tiempo-total>
+            <dificultad>Dificultad: Fácil</dificultad>
+            <raciones>Raciones: 4 personas</raciones>
+        </informacion>
+        <ingredientes>
+            <ingrediente>400 g de pasta (espaguetis, macarrones o al gusto)</ingrediente>
+            <ingrediente>1 coliflor mediana</ingrediente>
+            <ingrediente>2 cucharadas de aceite de oliva</ingrediente>
+            <ingrediente>3 dientes de ajo picados</ingrediente>
+            <ingrediente>1 taza de leche de almendras (o cualquier leche vegetal)</ingrediente>
+            <ingrediente>1/4 de taza de levadura nutricional (opcional, para darle un sabor a queso)</ingrediente>
+            <ingrediente>1 cucharadita de pimienta de Jamaica molida</ingrediente>
+            <ingrediente>Sal y pimienta negra al gusto</ingrediente>
+            <ingrediente>Perejil fresco picado para decorar</ingrediente>
+        </ingredientes>
+        <pasos>
+            <paso>Cocina la pasta según las instrucciones del paquete, escúrrela y resérvala.</paso>
+            <paso>En una olla grande con agua hirviendo, cuece los ramilletes de coliflor durante unos 8-10 minutos hasta que estén tiernos.</paso>
+            <paso>Mientras la coliflor se cocina, calienta el aceite de oliva en una sartén grande a fuego medio y añade los ajos picados. Saltéalos durante 1-2 minutos hasta que estén dorados.</paso>
+            <paso>Escurre la coliflor y agrégala a la sartén con los ajos. Remueve bien para que se mezclen los sabores.</paso>
+            <paso>En una licuadora, combina la coliflor, los ajos salteados, la leche de almendras y la levadura nutricional. Tritura hasta obtener una salsa suave y cremosa.</paso>
+            <paso>Condimenta la salsa con sal, pimienta negra y pimienta de Jamaica. Prueba y ajusta los condimentos al gusto.</paso>
+            <paso>Mezcla la salsa de coliflor con la pasta cocida, asegurándote de que quede bien cubierta.</paso>
+            <paso>Sirve inmediatamente y decora con perejil fresco picado.</paso>
+        </pasos>
+    </receta>
+        <receta id="05">
+        <nombre>Pasta con salsa de coliflor y pimienta de Jamaica</nombre>
+        <descripcion>Una salsa vegana para la pasta, tan sabrosa y cremosa que resultará irresistible! Está elaborada con coliflor y con otros ingredientes vegetales, que la convierten en una solución sencilla y para toda la familia.</descripcion>
+        <imagen>Pasta</imagen>
+        <id>05</id>
+        <informacion>
+            <tiempo-de-preparacion>Tiempo de preparación: 10 minutos</tiempo-de-preparacion>
+            <tiempo-de-coccion>Tiempo de cocción: 20 minutos</tiempo-de-coccion>
+            <tiempo-total>Tiempo total: 30 minutos</tiempo-total>
+            <dificultad>Dificultad: Fácil</dificultad>
+            <raciones>Raciones: 4 personas</raciones>
+        </informacion>
+        <ingredientes>
+            <ingrediente>400 g de pasta (espaguetis, macarrones o al gusto)</ingrediente>
+            <ingrediente>1 coliflor mediana</ingrediente>
+            <ingrediente>2 cucharadas de aceite de oliva</ingrediente>
+            <ingrediente>3 dientes de ajo picados</ingrediente>
+            <ingrediente>1 taza de leche de almendras (o cualquier leche vegetal)</ingrediente>
+            <ingrediente>1/4 de taza de levadura nutricional (opcional, para darle un sabor a queso)</ingrediente>
+            <ingrediente>1 cucharadita de pimienta de Jamaica molida</ingrediente>
+            <ingrediente>Sal y pimienta negra al gusto</ingrediente>
+            <ingrediente>Perejil fresco picado para decorar</ingrediente>
+        </ingredientes>
+        <pasos>
+            <paso>Cocina la pasta según las instrucciones del paquete, escúrrela y resérvala.</paso>
+            <paso>En una olla grande con agua hirviendo, cuece los ramilletes de coliflor durante unos 8-10 minutos hasta que estén tiernos.</paso>
+            <paso>Mientras la coliflor se cocina, calienta el aceite de oliva en una sartén grande a fuego medio y añade los ajos picados. Saltéalos durante 1-2 minutos hasta que estén dorados.</paso>
+            <paso>Escurre la coliflor y agrégala a la sartén con los ajos. Remueve bien para que se mezclen los sabores.</paso>
+            <paso>En una licuadora, combina la coliflor, los ajos salteados, la leche de almendras y la levadura nutricional. Tritura hasta obtener una salsa suave y cremosa.</paso>
+            <paso>Condimenta la salsa con sal, pimienta negra y pimienta de Jamaica. Prueba y ajusta los condimentos al gusto.</paso>
+            <paso>Mezcla la salsa de coliflor con la pasta cocida, asegurándote de que quede bien cubierta.</paso>
+            <paso>Sirve inmediatamente y decora con perejil fresco picado.</paso>
+        </pasos>
+    </receta>
+    <receta id="06">
+        <nombre>Galletas de Avena, Rosa y Lima</nombre>
+        <descripcion>Estas galletas de avena con un toque floral de rosa y cítrico de lima son perfectas para acompañar el té o café.</descripcion>    
+        <imagen>galletas</imagen>
+        <id>06</id>
+        <informacion>
+            <tiempo-preparacion>Tiempo de preparación: 15 minutos</tiempo-preparacion>
+            <tiempo-coccion>Tiempo de cocción: 12 minutos</tiempo-coccion>
+            <tiempo-total>Tiempo total: 27 minutos</tiempo-total>
+            <dificultad>Dificultad: Fácil</dificultad>
+            <raciones>Raciones: 20 galletas</raciones>
+        </informacion>
+        <ingredientes>
+            <ingrediente>1 taza de copos de avena</ingrediente>
+            <ingrediente>1 taza de harina de almendra (o harina de trigo integral)</ingrediente>
+            <ingrediente>1/2 taza de azúcar de coco (o azúcar moreno)</ingrediente>
+            <ingrediente>1/4 taza de aceite de coco derretido</ingrediente>
+            <ingrediente>1 huevo (o 1 cucharada de semillas de chía hidratadas en 3 cucharadas de agua para opción vegana)</ingrediente>
+            <ingrediente>1 cucharada de agua de rosas comestible</ingrediente>
+            <ingrediente>Ralladura de una lima</ingrediente>
+            <ingrediente>1 cucharadita de polvo de hornear</ingrediente>
+            <ingrediente>Una pizca de sal</ingrediente>
+            <ingrediente>Pétalos de rosa secos comestibles para decorar (opcional)</ingrediente>
+        </ingredientes>
+        <pasos>
+            <paso>Precalienta el horno a 180°C y forra una bandeja con papel de hornear.</paso>
+            <paso>Pon un bol grande, mezcla los ingredientes secos: copos de avena, harina de almendra, azúcar de coco, polvo de hornear y sal.</paso>
+            <paso>En otro recipiente, bate el huevo (o mezcla de chía), el aceite de coco derretido, el agua de rosas y la ralladura de lima hasta que estén bien integrados.</paso>
+            <paso>Incorpora la mezcla líquida a los ingredientes secos y remueve hasta obtener una masa homogénea.</paso>
+            <paso>Forma pequeñas bolas de masa y colócalas en la bandeja de horno. Aplana cada bola ligeramente con la palma de la mano.</paso>
+            <paso>Si deseas, espolvorea pétalos de rosa sobre cada galleta para decorar.</paso>
+            <paso>Hornea durante 10-12 minutos, o hasta que los bordes estén dorados. Las galletas se endurecerán al enfriarse.</paso>
+            <paso>Saca las galletas del horno y déjalas enfriar en una rejilla. ¡Listas para disfrutar!</paso>
+        </pasos>
+    </receta>
+    <receta id="07">
+        <nombre>Mijo Cremoso con Lentejas, Hortalizas y Shiitake</nombre>
+        <descripcion>Este mijo cremoso con lentejas y un surtido de hortalizas y setas shiitake es un plato nutritivo, saciante y lleno de sabor.</descripcion>    
+        <imagen>mijo</imagen>
+        <id>07</id>
+        <informacion>
+            <tiempo-preparacion>Tiempo de preparación: 15 minutos</tiempo-preparacion>
+            <tiempo-coccion>Tiempo de cocción: 30 minutos</tiempo-coccion>
+            <tiempo-total>Tiempo total: 45 minutos</tiempo-total>
+            <dificultad>Dificultad: Media</dificultad>
+            <raciones>Raciones: 4 personas</raciones>
+        </informacion>
+        <ingredientes>
+            <ingrediente>1 taza de mijo</ingrediente>
+            <ingrediente>1 taza de lentejas cocidas</ingrediente>
+            <ingrediente>200 g de setas shiitake frescas, laminadas</ingrediente>
+            <ingrediente>1 zanahoria, cortada en cubos pequeños</ingrediente>
+            <ingrediente>1 pimiento rojo, cortado en tiras</ingrediente>
+            <ingrediente>1 calabacín pequeño, en rodajas finas</ingrediente>
+            <ingrediente>2 cucharadas de aceite de oliva</ingrediente>
+            <ingrediente>1 cebolla pequeña, picada</ingrediente>
+            <ingrediente>2 dientes de ajo, picados</ingrediente>
+            <ingrediente>3 tazas de caldo de verduras</ingrediente>
+            <ingrediente>1/2 taza de leche de coco (para una textura cremosa)</ingrediente>
+            <ingrediente>1 cucharadita de tomillo seco</ingrediente>
+            <ingrediente>Sal y pimienta al gusto</ingrediente>
+            <ingrediente>Perejil fresco picado para decorar</ingrediente>
+        </ingredientes>
+        <pasos>
+            <paso>Enjuaga el mijo bajo agua fría hasta que el agua salga clara.</paso>
+            <paso>Calienta una cucharada de aceite de oliva en una sartén grande y añade las setas shiitake. Saltéalas durante 5 minutos hasta que estén doradas. Retíralas y resérvalas.</paso>
+            <paso>En la misma sartén, añade el resto del aceite de oliva y sofríe la cebolla y el ajo hasta que estén transparentes.</paso>
+            <paso>Agrega la zanahoria, el pimiento rojo y el calabacín. Cocina por 5-7 minutos hasta que las hortalizas estén tiernas.</paso>
+            <paso>Incorpora el mijo a la sartén y remueve durante un minuto.</paso>
+            <paso>Añade el caldo de verduras y el tomillo. Lleva a ebullición, luego reduce el fuego y cocina a fuego lento durante unos 20 minutos, o hasta que el mijo esté cocido y cremoso.</paso>
+            <paso>Incorpora la leche de coco y mezcla bien. Agrega las lentejas cocidas y las setas reservadas. Cocina unos minutos más para que todo esté bien caliente.</paso>
+            <paso>Condimenta con sal y pimienta al gusto.</paso>
+            <paso>Sirve el mijo cremoso decorado con perejil fresco picado.</paso>
+        </pasos>
+    </receta>
+    <receta id="08">
+        <nombre>Pasta con salsa de coliflor y pimienta de Jamaica</nombre>
+        <descripcion>Una salsa vegana para la pasta, tan sabrosa y cremosa que resultará irresistible! Está elaborada con coliflor y con otros ingredientes vegetales, que la convierten en una solución sencilla y para toda la familia.</descripcion>
+        <imagen>Pasta</imagen>
+        <id>08</id>
+        <informacion>
+            <tiempo-de-preparacion>Tiempo de preparación: 10 minutos</tiempo-de-preparacion>
+            <tiempo-de-coccion>Tiempo de cocción: 20 minutos</tiempo-de-coccion>
+            <tiempo-total>Tiempo total: 30 minutos</tiempo-total>
+            <dificultad>Dificultad: Fácil</dificultad>
+            <raciones>Raciones: 4 personas</raciones>
+        </informacion>
+        <ingredientes>
+            <ingrediente>400 g de pasta (espaguetis, macarrones o al gusto)</ingrediente>
+            <ingrediente>1 coliflor mediana</ingrediente>
+            <ingrediente>2 cucharadas de aceite de oliva</ingrediente>
+            <ingrediente>3 dientes de ajo picados</ingrediente>
+            <ingrediente>1 taza de leche de almendras (o cualquier leche vegetal)</ingrediente>
+            <ingrediente>1/4 de taza de levadura nutricional (opcional, para darle un sabor a queso)</ingrediente>
+            <ingrediente>1 cucharadita de pimienta de Jamaica molida</ingrediente>
+            <ingrediente>Sal y pimienta negra al gusto</ingrediente>
+            <ingrediente>Perejil fresco picado para decorar</ingrediente>
+        </ingredientes>
+        <pasos>
+            <paso>Cocina la pasta según las instrucciones del paquete, escúrrela y resérvala.</paso>
+            <paso>En una olla grande con agua hirviendo, cuece los ramilletes de coliflor durante unos 8-10 minutos hasta que estén tiernos.</paso>
+            <paso>Mientras la coliflor se cocina, calienta el aceite de oliva en una sartén grande a fuego medio y añade los ajos picados. Saltéalos durante 1-2 minutos hasta que estén dorados.</paso>
+            <paso>Escurre la coliflor y agrégala a la sartén con los ajos. Remueve bien para que se mezclen los sabores.</paso>
+            <paso>En una licuadora, combina la coliflor, los ajos salteados, la leche de almendras y la levadura nutricional. Tritura hasta obtener una salsa suave y cremosa.</paso>
+            <paso>Condimenta la salsa con sal, pimienta negra y pimienta de Jamaica. Prueba y ajusta los condimentos al gusto.</paso>
+            <paso>Mezcla la salsa de coliflor con la pasta cocida, asegurándote de que quede bien cubierta.</paso>
+            <paso>Sirve inmediatamente y decora con perejil fresco picado.</paso>
         </pasos>
     </receta>
 </recetas>
