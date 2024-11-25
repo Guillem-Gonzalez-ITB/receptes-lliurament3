@@ -1,5 +1,7 @@
 from lxml import etree
+from os import remove
 
+remove("llistareceptes.html")
 # Load the XML and XSLT files
 xml_file = "llistareceptes.xml"
 xslt_file = "llistareceptes.xsl"
